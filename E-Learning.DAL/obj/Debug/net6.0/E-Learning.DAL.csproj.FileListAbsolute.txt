@@ -1,0 +1,12 @@
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\bin\Debug\net6.0\E-Learning.DAL.deps.json
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\bin\Debug\net6.0\E-Learning.DAL.dll
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\bin\Debug\net6.0\E-Learning.DAL.pdb
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.csproj.AssemblyReference.cache
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.AssemblyInfoInputs.cache
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.AssemblyInfo.cs
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.dll
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\refint\E-Learning.DAL.dll
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\E-Learning.DAL.pdb
+C:\Users\tejesh.bharadwaj\Desktop\Project\Task\E-Learning\E-Learning.DAL\obj\Debug\net6.0\ref\E-Learning.DAL.dll
